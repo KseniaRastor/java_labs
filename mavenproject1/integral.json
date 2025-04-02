@@ -1,0 +1,20 @@
+[
+  {
+    "classLowerLimitValue": 111.0,
+    "classUpperLimitValue": 1111.0,
+    "classStepValue": 1.0,
+    "classRezult": 2.3034922842791836
+  },
+  {
+    "classLowerLimitValue": 1.0,
+    "classUpperLimitValue": 1111.0,
+    "classStepValue": 1.0,
+    "classRezult": 7.090231387027675
+  },
+  {
+    "classLowerLimitValue": 11.0,
+    "classUpperLimitValue": 1111.0,
+    "classStepValue": 1.0,
+    "classRezult": 4.615808587604867
+  }
+]
